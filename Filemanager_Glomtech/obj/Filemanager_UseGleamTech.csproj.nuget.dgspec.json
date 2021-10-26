@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_v2.csproj": {}
+    "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_UseGleamTech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_v2.csproj": {
+    "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_UseGleamTech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_v2.csproj",
-        "projectName": "Filemanager_v2",
-        "projectPath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_v2.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_UseGleamTech.csproj",
+        "projectName": "Filemanager_UseGleamTech",
+        "projectPath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_UseGleamTech.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\obj\\",
         "projectStyle": "PackageReference",

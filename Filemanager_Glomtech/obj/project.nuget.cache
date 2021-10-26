@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1OE6nr8Zllc89NU9Q7S83NSeRvIXyAqKWKLJsclU7NAE/3klF3Xi32WldqFLDGyqCSV1GmQxqj9LWsk7SKHwaw==",
+  "dgSpecHash": "y5sjmZGWhcLucj1j5DzIwayM2ecwrkketSyDYEq0PaVm75Z2LlkzQm7hYQ8JrZq2o0HGp9vgReS2m9kP1JBthw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxim\\source\\repos\\Filemanager_v2\\Filemanager_v2\\Filemanager_v2.csproj",
+  "projectFilePath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_GleamTech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxim\\.nuget\\packages\\gleamtech.common\\4.5.4\\gleamtech.common.4.5.4.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\gleamtech.documentultimate\\5.9.7\\gleamtech.documentultimate.5.9.7.nupkg.sha512",

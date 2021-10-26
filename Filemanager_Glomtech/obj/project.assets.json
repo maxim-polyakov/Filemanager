@@ -8598,11 +8598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxim\\source\\repos\\Filemanager_v2\\Filemanager_v2\\Filemanager_v2.csproj",
-      "projectName": "Filemanager_v2",
-      "projectPath": "C:\\Users\\maxim\\source\\repos\\Filemanager_v2\\Filemanager_v2\\Filemanager_v2.csproj",
+      "projectUniqueName": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_GleamTech.csproj",
+      "projectName": "Filemanager_GleamTech",
+      "projectPath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\Filemanager_GleamTech.csproj",
       "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxim\\source\\repos\\Filemanager_v2\\Filemanager_v2\\obj\\",
+      "outputPath": "C:\\Users\\maxim\\Documents\\GitHub\\Filemanager\\Filemanager_Glomtech\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
